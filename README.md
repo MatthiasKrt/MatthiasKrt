@@ -1,16 +1,17 @@
-## Hi there 👋
+# Moin! 👋
 
-<!--
-**MatthiasKrt/MatthiasKrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :technologist: About Me:
 
-Here are some ideas to get you started:
+- 🏠 I'm a Full Stack Developer working in Germany
+- 💻 I use daily: `.ts`, `.java`, `.sql`, Git
+- 📓 I'm currently learning C, C++, AI
+- ✏️ I'm working on: Smart Forms that are filled with AI power with your own data
+- 💬: I'm interested in Oldtimer motorcycles, Notion and 3D-Printing
+- ⌨️ Tech I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="64" height="64"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="64" height="64"/> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="64" height="64"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/>
+</p>
