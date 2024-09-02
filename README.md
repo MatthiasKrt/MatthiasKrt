@@ -6,7 +6,7 @@
 - 💻 I use daily: `.ts`, `.java`, `.sql`
 - 📓 I'm currently learning C, C++, AI
 - ✏️ I'm working on: Smart Forms that are filled with AI power with your own data
-- 💬: I'm interested in Oldtimer motorcycles, Notion and 3D-Printing
+- 💬 I'm interested in Oldtimer Motorcycles, Notion and 3D-Printing
 - ⌨️ Tech I use:
 
 <p align="center">
