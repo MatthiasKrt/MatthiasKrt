@@ -5,7 +5,7 @@
 - 🏠 I'm a Full Stack Developer working in Germany
 - 💻 I use daily: `.ts`, `.java`, `.sql`
 - 📓 I'm currently learning C, C++, AI
-- ✏️ I'm working on: Smart Forms that are filled with AI power with your own data
+- ✏️ I'm working on: Creating a system to work with legacy code
 - 💬 I'm interested in Oldtimer Motorcycles, Notion and 3D-Printing
 - ⌨️ Tech I use:
 
