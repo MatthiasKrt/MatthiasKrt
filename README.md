@@ -14,4 +14,5 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="64" height="64"/> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="64" height="64"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="64" height="64"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="docker" width="64" height="64"/>
 </p>
