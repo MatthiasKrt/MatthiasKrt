@@ -4,5 +4,5 @@
 
 - 🏠 Full Stack Developer based in Germany
 - 💻 Daily coding in: `.ts`, `.java`, `.sql`
-- 📓 Currently learning C, C++
-- 💬 Interests: AI-supported software development, oldtimer restorations, 3D printing
+- 📓 Currently learning CAD, CAM
+- 💬 Interests: fullstack development, oldtimer restorations, 3D printing and CNC
